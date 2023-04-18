@@ -29,6 +29,8 @@ p {
 }
 
 .affliction,
+.character,
+.faction,
 .game-title,
 .perk,
 .quirk,
@@ -41,6 +43,10 @@ p {
   color: #6d39ed;
 }
 
+.character {
+  color: #3251ad;
+}
+
 .example-of-play {
   background-color: #879fe6;
   border-radius: 10px;
@@ -50,6 +56,10 @@ p {
 .example-of-play i,
 .example-of-play li {
   font-size: 16px;
+}
+
+.faction {
+  color: #5f547a;
 }
 
 .footnote p {
