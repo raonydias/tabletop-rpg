@@ -1,0 +1,82 @@
+html {
+  background-color: #4169e1;
+}
+
+body {
+  background-color: #fffdfa !important;
+  border-radius: 5px;
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom: 2px dotted #4169e1;
+}
+
+h1,
+h3,
+h5 {
+  color: #3251ad;
+}
+
+h2,
+h4,
+h6 {
+  color: #4169e1;
+}
+
+p {
+  font-size: 16px;
+}
+
+.affliction,
+.game-title,
+.perk,
+.quirk,
+.spell {
+  font-variant: small-caps;
+  font-weight: 500;
+}
+
+.affliction {
+  color: #6d39ed;
+}
+
+.example-of-play {
+  background-color: #879fe6;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.example-of-play i,
+.example-of-play li {
+  font-size: 16px;
+}
+
+.footnote p {
+  font-size: 12px;
+  font-family: "Roboto Mono", monospace;
+}
+
+.game-title {
+  color: #4169e1;
+}
+
+.no-bullets {
+  padding-left: 0 !important;
+}
+
+.no-bullets li {
+  list-style: none;
+}
+
+.perk {
+  color: #91e02b;
+}
+
+.quirk {
+  color: #e07358;
+}
+
+.spell {
+  color: #e0b441;
+}
