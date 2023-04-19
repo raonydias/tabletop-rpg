@@ -29,18 +29,26 @@ p {
 }
 
 .affliction,
+.blaster,
 .character,
 .faction,
 .game-title,
 .perk,
 .quirk,
-.spell {
+.redox,
+.spell,
+.tempest,
+.tidal {
   font-variant: small-caps;
   font-weight: 500;
 }
 
 .affliction {
   color: #6d39ed;
+}
+
+.blaster {
+  color: #ff4500;
 }
 
 .character {
@@ -87,6 +95,25 @@ p {
   color: #e07358;
 }
 
+.redox {
+  color: #ffd700;
+}
+
+.ruler-img {
+  display: block;
+  border-radius: 50%;
+  width: 12em;
+  margin: 0 auto;
+}
+
 .spell {
   color: #e0b441;
+}
+
+.tempest {
+  color: #32cd32;
+}
+
+.tidal {
+  color: #1e90ff;
 }
